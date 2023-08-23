@@ -1,0 +1,8 @@
+.Pokedex {
+    text-align: center;
+}
+.Pokedex-title {
+    font-weight: 600;
+    font-size: 3rem;
+    color: rgb(122, 4, 23);
+}
